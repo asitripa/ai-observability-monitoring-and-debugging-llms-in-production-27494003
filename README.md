@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# AI Observability: Monitoring and Debugging LLMs in Production
+This is the repository for the LinkedIn Learning course `AI Observability: Monitoring and Debugging LLMs in Production`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
