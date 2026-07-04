@@ -1,4 +1,8 @@
 .DS_Store
 node_modules
 .tmp
-npm-debug.log
+npm-debug.logcla
+.env
+aiobserve/
+.ipynb_checkpoints/
+__pycache__/
